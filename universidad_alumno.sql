@@ -43,7 +43,7 @@ CREATE TABLE `alumno` (
 
 LOCK TABLES `alumno` WRITE;
 /*!40000 ALTER TABLE `alumno` DISABLE KEYS */;
-INSERT INTO `alumno` VALUES (12345,'JUAN PABLO ','ingejp@outlook.com','78945612','colonia san andres santo tomas de castilla puerto barrios izabal',1),(13184,'Luis Angel Barillas Palma','lbarillasp3@miumg.edu.gt',NULL,'Santo tomas de castilla colonia la repegua',1),(23456,'EDWIN BARRERA','ebarrera@gmail.com','2345677654','puerto barrios izabal',1),(123474,'JORGE ARMANDO RIVAS','correo@correo.com',NULL,NULL,1),(564217,'JOSE MANUEL FELIZ','correo@correo.com',NULL,NULL,1),(4561237,'PERLA RUBY LOPEZ','perla@gmail.com','78945222','COLONIA LA PRIMAVERA PUERTO BARRIOS IZABAL',2);
+INSERT INTO `alumno` VALUES (12345,'JUAN PABLO ','ingejp@outlook.com','78945612','colonia san andres santo tomas de castilla puerto barrios izabal',1),(13184,'Milca Paola Taniel González','mtanielg@miumg.edu.gt',NULL,'Puerto Barrios Izabal',1),(23456,'ESTUARDO BARRIENTOS','ebarrientosgmail.com','2345677654','puerto barrios izabal',1),(123474,'NOE RAMOS','correo@correo.com',NULL,NULL,1),(564217,'JOSE PABLO NARVAS','correo@correo.com',NULL,NULL,1),(4561237,'SERIM GONZALEZ','gonzalez@gmail.com','78945222','COLONIA EL RASTRO PUERTO BARRIOS IZABAL',2);
 /*!40000 ALTER TABLE `alumno` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
