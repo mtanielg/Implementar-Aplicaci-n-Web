@@ -30,7 +30,7 @@ function mostrarObjetos(var1, var2){
 
 function mostrarObjetosClasicos(){
     let alumno= new Object();
-    alumno.nombre='Angel Vargas';
+    alumno.nombre='seongmin morales';
     alumno.codigo='0909-20-246';
     alumno.correo='correo@umg.edu.gt';
     metodoAnidadoQueMuestraPorConsola(alumno);
